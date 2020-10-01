@@ -10,6 +10,8 @@
 - https://github.com/react-brasil/empresas-que-usam-react-no-brasil
 - https://github.com/GraphQLBr/empresas-que-usam-graphql-no-brasil
 - https://github.com/guru-br/catalogo_empresas
+- https://github.com/riocss/links
+- https://github.com/felipefialho/frontend-challenges
 
 ## Translations
 
