@@ -12,7 +12,12 @@
 - https://github.com/guru-br/catalogo_empresas
 - https://github.com/riocss/links
 - https://github.com/felipefialho/frontend-challenges
+- https://github.com/Caaddss/awesome-live-coding-streams
+- https://github.com/perifacode/conteudo-gratuito
+- https://github.com/TeoCalvo/teomerefs
+- https://github.com/PizzaDeDados/datascience-pizza
 
 ## Translations
 
 ## Coding
+https://github.com/DadosAbertosDeFeira/analises
