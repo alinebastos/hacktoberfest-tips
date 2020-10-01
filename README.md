@@ -12,7 +12,11 @@
 - https://github.com/guru-br/catalogo_empresas
 - https://github.com/riocss/links
 - https://github.com/felipefialho/frontend-challenges
+- https://github.com/perifacode/conteudo-gratuito
+- https://github.com/leticiadasilva/por-onde-comecar
 
 ## Translations
+
+- https://github.com/elixirschool/elixirschool/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest
 
 ## Coding
