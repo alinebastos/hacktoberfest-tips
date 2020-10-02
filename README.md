@@ -14,6 +14,8 @@
 - https://github.com/felipefialho/frontend-challenges
 - https://github.com/perifacode/conteudo-gratuito
 - https://github.com/leticiadasilva/por-onde-comecar
+- https://github.com/Nerd0000/Links-de-Estudo/
+- https://github.com/he4rtlabs/he4rtoberfest-2020
 
 ## Translations
 
