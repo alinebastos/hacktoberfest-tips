@@ -1,5 +1,7 @@
 # Tips for Hacktoberfest contribution
 
+Add only repositories with the `hacktoberfest` topic here.
+
 ## Lists
 
 - https://github.com/alinebastos/free-courses
