@@ -16,7 +16,6 @@
 - https://github.com/leticiadasilva/por-onde-comecar
 - https://github.com/Nerd0000/Links-de-Estudo/
 - https://github.com/ThoughtWorksInc/guia-de-desenvolvimento-tecnico
-- https://github.com/firstcontributions/first-contributions
 
 ## Translations
 
