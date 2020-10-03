@@ -15,10 +15,12 @@
 - https://github.com/perifacode/conteudo-gratuito
 - https://github.com/leticiadasilva/por-onde-comecar
 - https://github.com/Nerd0000/Links-de-Estudo/
+- https://github.com/ThoughtWorksInc/guia-de-desenvolvimento-tecnico
 
 ## Translations
 
 - https://github.com/elixirschool/elixirschool/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest
+- https://github.com/cezaraugusto/You-Dont-Know-JS
 
 ## Coding
 
