@@ -10,6 +10,8 @@ Add only repositories with the `hacktoberfest` topic here.
 - https://github.com/alinebastos/call-for-papers
 - https://github.com/alinebastos/fullstack-challenges
 - https://github.com/leticiadasilva/por-onde-comecar
+- https://github.com/bellesamways/studynotes
+- https://github.com/MariaEduardaDeAzevedo/nosso-py
 
 ## Translations
 
