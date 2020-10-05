@@ -20,3 +20,7 @@ Add only repositories with the `hacktoberfest` topic here.
 ## Coding
 
 - [Cadastro now](https://github.com/jhonatasmatos/cadastro-now)
+
+## Off Topic (poetry, music...)
+
+- [Cloud Haiku](https://github.com/do-community/cloud_haiku)
