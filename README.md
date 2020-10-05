@@ -4,17 +4,19 @@ Add only repositories with the `hacktoberfest` topic here.
 
 ## Lists
 
-- https://github.com/alinebastos/free-courses
-- https://github.com/alinebastos/remote
-- https://github.com/alinebastos/dev-practice
-- https://github.com/alinebastos/call-for-papers
-- https://github.com/alinebastos/fullstack-challenges
-- https://github.com/leticiadasilva/por-onde-comecar
-- https://github.com/bellesamways/studynotes
-- https://github.com/MariaEduardaDeAzevedo/nosso-py
+- [Call for papers](https://github.com/alinebastos/call-for-papers)
+- [Dev Practice](https://github.com/alinebastos/dev-practice)
+- [Free Courses](https://github.com/alinebastos/free-courses)
+- [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges)
+- [Nosso Py](https://github.com/MariaEduardaDeAzevedo/nosso-py)
+- [Por onde começar](https://github.com/leticiadasilva/por-onde-comecar)
+- [Remote](https://github.com/alinebastos/remote)
+- [Studynotes](https://github.com/bellesamways/studynotes)
 
 ## Translations
 
 - https://github.com/elixirschool/elixirschool/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest
 
 ## Coding
+
+- [Cadastro now](https://github.com/jhonatasmatos/cadastro-now)
