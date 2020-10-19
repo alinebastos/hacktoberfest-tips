@@ -13,6 +13,7 @@ Add only repositories with the `hacktoberfest` topic here.
 - [Remote](https://github.com/alinebastos/remote)
 - [Studynotes](https://github.com/bellesamways/studynotes)
 
+
 ## Translations
 
 - https://github.com/elixirschool/elixirschool/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest
@@ -20,6 +21,7 @@ Add only repositories with the `hacktoberfest` topic here.
 ## Coding
 
 - [Cadastro now](https://github.com/jhonatasmatos/cadastro-now)
+- [Metabolismo Basal](https://github.com/adalbertobrant/metabolismobasal)
 
 ## Off Topic (poetry, music...)
 
