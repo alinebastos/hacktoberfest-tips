@@ -8,6 +8,7 @@ Add only repositories with the `hacktoberfest` topic here.
 - [Dev Practice](https://github.com/alinebastos/dev-practice)
 - [Free Courses](https://github.com/alinebastos/free-courses)
 - [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges)
+- [Manual de sobrevivência: Hacktoberfest 2021](https://dev.to/compiladoras/manual-de-sobrevivencia-hacktoberfest-2021-14a8)
 - [Nosso Py](https://github.com/MariaEduardaDeAzevedo/nosso-py)
 - [Por onde começar](https://github.com/leticiadasilva/por-onde-comecar)
 - [Remote](https://github.com/alinebastos/remote)
