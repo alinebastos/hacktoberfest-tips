@@ -5,6 +5,7 @@ Add only repositories with the `hacktoberfest` topic here.
 ## Lists
 
 - [Call for papers](https://github.com/alinebastos/call-for-papers)
+- [Coletivo Codivas] (https://github.com/Codivas/portal-codivas)
 - [Dev Practice](https://github.com/alinebastos/dev-practice)
 - [Free Courses](https://github.com/alinebastos/free-courses)
 - [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges)
