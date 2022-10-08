@@ -22,6 +22,7 @@ Add only repositories with the `hacktoberfest` topic here.
 
 - [Cadastro now](https://github.com/jhonatasmatos/cadastro-now)
 - [Metabolismo Basal](https://github.com/adalbertobrant/metabolismobasal)
+- [Wordle-Clone](https://github.com/jakeliny/wordle-clone)
 
 ## Off Topic (poetry, music...)
 
